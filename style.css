@@ -1,0 +1,37 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+background-color: lightpink;
+    
+}
+table,th,td{
+    border: 1px solid black;
+}
+#Rose {
+    background-color:rgb(255, 90, 117);
+}
+#Lalisa{
+background-color: palevioletred;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f9b0d0;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(13, 11, 11);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #efdae427;
+  }
